@@ -40,10 +40,10 @@ $ python manage.<manage></manage>py migrate
 
 # **Create superuser for python admin**
 
-$ python manage.<manage></manage>py createsuperuser
-Nombre>
-Email>
-Pass>
+$ python manage.<manage></manage>py createsuperuser  
+Nombre>  
+Email>  
+Pass>  
 
 # **Run aplication**
 
